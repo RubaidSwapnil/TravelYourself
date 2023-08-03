@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   color: bisque;
+  text-color:rgb(253, 214, 143)
 }
 
 html,body{
@@ -27,4 +28,13 @@ strong{
 
 .p2{
   color: rgb(228, 147, 27);
+}
+
+.table{
+  width: 30%;
+  height: 30%;
+  margin: auto;
+  background-color:rgb(2, 124, 84);
+  border-color: blanchedalmond;
+  text-align: center;
 }
